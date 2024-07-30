@@ -1,0 +1,7 @@
+name: MsJoin
+version: 1.0
+author: yurirp4
+main: Join.Main
+Description: MsJoin Mais Um Plugin Da Linha MsPlugins
+commands:
+  msjoinrl:

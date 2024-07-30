@@ -1,0 +1,31 @@
+#Autor: yurirp4
+#version: 1.0
+#variables: %player%
+#this plugin was made by a Brazilian
+#Creator channel : https://www.youtube.com/channel/UCpAddeks1LObI281qvD3jNw
+
+JoinChat: true
+#if you want to leave the message in chat enabled put True or to disable put false
+Join_Chat: '&2%player% &aJoin the server'
+#message on entry
+#
+#
+Joinactionbar: true
+#if you want to leave the message in actionbar enabled put True or to disable put false
+Join_Actionbar: '&2%player% &aJoin the servero'
+#message on entry
+#
+#
+Quitactionbar: true
+#if you want to leave the message in chat enabled put True or to disable put false
+quit_Actionbar: '&4%player% &cleft the server'
+#message on exit
+#
+#
+QuitChat: true
+#if you want to leave the message in actionbar enabled put True or to disable put false
+quit_Chat: '&4%player% &cleft the server'
+#message on exit
+
+Staffs_Join_Chat: true
+Owner_Join: '&6@owner Entro'
